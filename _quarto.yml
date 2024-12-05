@@ -2,18 +2,19 @@ project:
   type: website
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Scott Kishpaugh - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: "This repo is a description of the work that I have done in data scince. It is a portfolio of my work and the projects that I have completed. I have included a description of the project, the code, and the results of the project. I have also included a link to the github repo for each project."
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Scott Kishpaugh 2024©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://www.linkedin.com/in/scott-kishpaugh-7b1b1b1b1/
+
 
   navbar:
     background: primary
