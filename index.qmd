@@ -1,10 +1,15 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
+title: "Scott Kishpaugh"
+subtitle: "This is my data science portfolio. This portfolio shows all the projects and work that I have done this semester. "
 # use quarto markdown to 
 ---
 
 # Title 1 Header
+Contact info
+Name: Scott Kishpaugh 
+email: kis21005@byui.edu
+phone: 4804658380
+
 ## Title 2 Header
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
