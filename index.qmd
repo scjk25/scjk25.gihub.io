@@ -5,11 +5,6 @@ subtitle: "This is my data science portfolio. This portfolio shows all the proje
 ---
 
 # Title 1 Header
-Contact info
-Name: Scott Kishpaugh 
-email: kis21005@byui.edu
-phone: 4804658380
-
 ## Title 2 Header
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
