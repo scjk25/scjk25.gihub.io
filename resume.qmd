@@ -6,8 +6,8 @@ title: Scott Kishpaugh's CV
 BYU_Idaho Student, GIS major
 
 <div id="webaddress">
-<a href="https://byuidatascience.github.io/datascience_portfolio/">https://byuidatascience.github.io/datascience_portfolio/</a>
-| <a href="https://byuidatascience.github.io/datascience_portfolio/">My Website</a>
+<a href="https://scjk25.github.io/scjk25.gihub.io/resume.html">https://scjk25.github.io/scjk25.gihub.io/resume.html</a>
+| <a href="https://scjk25.github.io/scjk25.gihub.io/resume.html">My Website</a>
 </div>
 
 
