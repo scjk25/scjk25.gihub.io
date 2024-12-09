@@ -6,8 +6,8 @@ title: Scott Kishpaugh's CV
 BYU_Idaho Student, GIS major
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://byuidatascience.github.io/datascience_portfolio/">https://byuidatascience.github.io/datascience_portfolio/</a>
+| <a href="https://byuidatascience.github.io/datascience_portfolio/">My Website</a>
 </div>
 
 
